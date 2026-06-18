@@ -228,7 +228,7 @@ const NewsletterSection = () => {
               scale: 1.08,
             }}
             whileTap={{ scale: 0.95 }}
-            href="https://www.instagram.com/hr_analytics_mirror/"
+            href="https://www.instagram.com/hranalyticsmirror/"
             target="_blank"
             rel="noopener noreferrer"
             className="
